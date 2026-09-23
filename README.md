@@ -1,252 +1,307 @@
-<div align="center">
+# 👋 Hi, I'm Nguyễn Quang Vinh
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=QUANG%20VINH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER%20IN%20PROGRESS%20%E2%80%A2%20PTIT&descAlignY=60&descSize=17&animation=fadeIn&color=0:0F172A,50:172554,100:1D4ED8" width="100%"/>
+### ☕ Java Backend Developer in Progress | Spring Boot | Microservices | DevOps & Cloud
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=Java+Backend+Developer+in+Progress;Spring+Boot+%7C+Redis+%7C+Kafka+%7C+Docker;Building+Scalable+Backend+Systems;Exploring+Microservices+%26+Cloud;Learn.+Build.+Debug.+Repeat." />
+I'm currently studying at **PTIT x Rikkei Education**, focusing on **Java Backend Development**.
 
-<br><br>
+I enjoy building backend applications, learning how distributed systems work, and turning what I learn into small practical projects.
 
-<a href="https://github.com/QuangVinh1605">
-<img src="https://img.shields.io/github/followers/QuangVinh1605?style=for-the-badge&logo=github&label=Followers"/>
-</a>
-
-<a href="https://github.com/QuangVinh1605?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/quang-vinh-nguy%E1%BB%85n-517b07331/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+> 🎯 **Current goal:** Become a **Java Backend Developer**
+> 🚀 **Next step:** DevOps / Cloud Engineering
+> ☁️ **Long-term direction:** Cloud & Solution Architecture
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
+
+* 🎓 Studying at **PTIT x Rikkei Education**
+* ☕ Focusing on **Java Backend Development**
+* 🌱 Currently learning **Spring Boot & Microservices**
+* 🗄️ Working with **MySQL, PostgreSQL, Redis**
+* 📨 Learning distributed systems with **Kafka**
+* 🔐 Interested in **JWT, Spring Security & system design**
+* 🐳 Learning **Docker & Linux**
+* ☁️ Interested in **AWS & Cloud Architecture**
+* 🤖 Using AI tools to improve my development workflow
+* 🌍 IELTS **6.5** | HSK **4**
+* 🇫🇷 Considering learning **French** for future international opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle" />
+</p>
+
+* Java
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* Spring Cloud
+* REST API
+* JWT
+* Microservices
+
+### 🗄️ Database & Caching
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+</p>
+
+* MySQL
+* PostgreSQL
+* Redis
+* JPA / Hibernate
+
+### 📨 Distributed Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka" />
+</p>
+
+* Apache Kafka
+* Event-driven architecture
+* Distributed transactions
+* Cache-aside pattern
+* Circuit Breaker
+* Retry / Timeout / Fallback
+* Saga Pattern
+* Idempotency
+
+### 🐳 DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,aws" />
+</p>
+
+* Linux / Ubuntu
+* Docker & Docker Compose
+* Git / GitHub
+* CI/CD — Learning
+* AWS — Learning
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
+</p>
+
+* HTML / CSS
+* JavaScript
+* TypeScript
+* React
+* Vite
+
+---
+
+## 🚀 Featured Projects
+
+### 🅿️ SmartPark
+
+A smart parking management system built with a modern backend architecture.
+
+**Tech stack:**
+
+`Java` `Spring Boot` `MySQL` `Redis` `Kafka` `Docker` `React` `PayOS`
+
+**Main features:**
+
+* 🔐 JWT Authentication & Authorization
+* 🅿️ Parking & Booking Management
+* 💳 QR Payment with PayOS
+* 📧 Email Notification
+* ⚡ Redis Caching
+* 📨 Kafka-based event processing
+* 📊 Analytics & Dashboard
+* 🤖 AI-powered features
+
+---
+
+### 🤖 Java AI Tutor
+
+An AI-powered assistant designed to help developers understand and solve Java programming problems.
+
+**Tech stack:**
+
+`Java` `Spring Boot` `Spring AI` `OpenRouter` `PostgreSQL` `pgvector`
+
+**Focus:**
+
+* Java programming assistance
+* AI-powered explanations
+* Document processing
+* Vector database
+* Backend API development
+
+---
+
+### 🛒 Microservices Practice
+
+A collection of backend exercises focused on distributed systems and microservice architecture.
+
+**Topics:**
+
+* Service Discovery
+* API Gateway
+* Config Server
+* OpenFeign
+* Redis
+* Kafka
+* Resilience4j
+* Circuit Breaker
+* Retry & Timeout
+* Fallback
+* Saga
+* Distributed Transactions
+
+---
+
+## 🧠 What I'm Learning
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║  QUANG VINH                                                     ║
-║                                                                  ║
-║  🎓  PTIT × Rikkei Education                                   ║
-║  💻  Java Backend Developer in Progress                         ║
-║  🧩  Spring Boot • REST API • JPA • Security                    ║
-║  ⚡  Redis • Kafka • Event-Driven Architecture                   ║
-║  🐳  Docker • Docker Compose • Nginx                            ║
-║  ☁️  Exploring Microservices → AWS                              ║
-║                                                                  ║
-║  🎯  Goal: become a strong Backend Engineer and build systems   ║
-║      that are clean, scalable, reliable and production-ready.   ║
-╚══════════════════════════════════════════════════════════════════╝
-
-I'm currently studying at PTIT × Rikkei Education, focusing on Java Backend Development.
-
-I enjoy understanding what happens behind an API — from database design and transactions to caching, messaging, authentication and distributed systems.
-
-My current direction is:
-
-Java Backend → Microservices → Cloud → AWS
-
-🧠 Engineering Mindset
-<div align="center">
-🧱 Design	⚡ Performance	📨 Distributed	☁️ Infrastructure
-Clean APIs	Redis Cache	Kafka	Docker
-Layered Architecture	Query Optimization	Event-Driven	Nginx
-Validation	Database Indexing	Microservices	AWS
-Security	Transactions	Async Processing	CI/CD
-</div>
-🏗️ My Backend World
-<div align="center">
-                         ┌─────────────────────┐
-                         │      CLIENTS        │
-                         │ Web • Mobile • API  │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │      REST API       │
-                         │    Spring Boot      │
-                         └──────────┬──────────┘
-                                    │
-                ┌───────────────────┼───────────────────┐
-                ▼                   ▼                   ▼
-        ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
-        │    MySQL     │    │    Redis     │    │    Kafka     │
-        │   Database   │    │    Cache      │    │    Events    │
-        └──────────────┘    └──────────────┘    └──────┬───────┘
-                                                       │
-                                                       ▼
-                                             ┌─────────────────┐
-                                             │  Microservices  │
-                                             └────────┬────────┘
-                                                      │
-                                                      ▼
-                                             ┌─────────────────┐
-                                             │ Docker / Nginx  │
-                                             └────────┬────────┘
-                                                      │
-                                                      ▼
-                                             ┌─────────────────┐
-                                             │       AWS       │
-                                             └─────────────────┘
-</div>
-⚙️ Tech Stack
-<div align="center">
-☕ Backend
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven"/>
-🗄️ Database • Messaging • Infrastructure
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,kafka,docker,nginx"/>
-🛠️ Development
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman"/>
-🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,typescript,vite"/> </div>
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top">
-🎢 SmartPark
-
-Amusement Park Ticketing & Management System
-
-A full-stack platform for ticketing, orders, payments and operational management.
-
-Stack
-
 Java
-Spring Boot
-Spring Security
-MySQL
-Redis
-Kafka
-Docker
-React
-TypeScript
+ └── Spring Boot
+      ├── Spring Security
+      ├── Spring Data JPA
+      ├── Spring Cloud
+      └── Microservices
+            ├── Eureka
+            ├── API Gateway
+            ├── Config Server
+            ├── OpenFeign
+            ├── Redis
+            ├── Kafka
+            └── Resilience4j
 
-Focus
+DevOps
+ ├── Linux
+ ├── Docker
+ ├── CI/CD
+ └── AWS
+```
 
-Authentication & Authorization
-Ticket Management
-Order Management
-Payment Integration
-Redis Caching
-Event-Driven Processing
-AI Integration
-</td> <td width="50%" valign="top">
-🤖 Customer Service AI
+---
 
-AI-powered Customer Service Backend
+## 📚 Currently Learning
 
-A backend project exploring LLM capabilities inside real business workflows.
+### ☕ Java Backend
 
-Stack
+* Advanced Spring Boot
+* Spring Security
+* REST API Design
+* Database Optimization
+* Clean Architecture
+* Backend Testing
 
-Java
-Spring Boot
-Spring AI
-REST API
-MySQL
-Redis
+### 🌐 Microservices
 
-Focus
+* Service Discovery
+* API Gateway
+* Distributed Configuration
+* Inter-service Communication
+* Distributed Caching
+* Event-driven Architecture
+* Distributed Transactions
+* Fault Tolerance
 
-AI Provider Abstraction
-Tool Calling
-Business Service Layer
-Clean API Design
-AI-assisted Interaction
-</td> </tr> </table>
-🔥 Currently Learning
-<div align="center">
-Technology	Focus
-☕ Java	Advanced Java & Backend Engineering
-🌱 Spring Boot	REST API, JPA & Security
-🗄️ MySQL / PostgreSQL	Database Design & Optimization
-⚡ Redis	Caching & Performance
-📨 Kafka	Event-Driven Architecture
-🏗️ Microservices	Distributed Systems
-🐳 Docker	Containerization & Deployment
-☁️ AWS	Cloud Fundamentals & Architecture
-</div>
-🧩 Backend Engineering Interests
-API DESIGN
-    │
-    ├── RESTful API
-    ├── Validation
-    ├── Exception Handling
-    └── API Documentation
+### ☁️ DevOps / Cloud
 
-DATABASE
-    │
-    ├── Relational Modeling
-    ├── Indexing
-    ├── Transactions
-    └── Query Optimization
+* Linux
+* Docker
+* CI/CD
+* AWS
+* Cloud Architecture
 
-PERFORMANCE
-    │
-    ├── Redis
-    ├── Caching Strategy
-    └── Database Optimization
+---
 
-DISTRIBUTED SYSTEMS
-    │
-    ├── Kafka
-    ├── Event-Driven Architecture
-    ├── Microservices
-    └── Message Processing
+## 🎯 My Roadmap
 
-INFRASTRUCTURE
-    │
-    ├── Docker
-    ├── Docker Compose
-    ├── Nginx
-    └── AWS
-📊 GitHub Analytics
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=QuangVinh1605&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangVinh1605&layout=compact&hide_border=true&theme=transparent&langs_count=8"/>
+```text
+2026
+ │
+ ├── Java Backend
+ │   ├── Java
+ │   ├── Spring Boot
+ │   ├── Spring Security
+ │   └── Database
+ │
+ ▼
+2026 - 2027
+ │
+ ├── Microservices
+ │   ├── Kafka
+ │   ├── Redis
+ │   ├── Docker
+ │   └── Distributed Systems
+ │
+ ▼
+2027+
+ │
+ ├── DevOps / Cloud
+ │   ├── Linux
+ │   ├── CI/CD
+ │   ├── AWS
+ │   └── Kubernetes
+ │
+ ▼
+Long Term
+ │
+ └── Cloud / Solution Architecture
+```
 
-<br><br>
+---
 
-<img src="https://streak-stats.demolab.com?user=QuangVinh1605&hide_border=true&theme=transparent"/> </div>
-🗺️ Career Roadmap
-<div align="center">
-                         JAVA CORE
-                            │
-                            ▼
-                       SPRING BOOT
-                            │
-                            ▼
-                  BACKEND ENGINEERING
-                            │
-                 ┌──────────┼──────────┐
-                 ▼          ▼          ▼
-               REDIS      KAFKA     SECURITY
-                 └──────────┼──────────┘
-                            │
-                            ▼
-                      MICROSERVICES
-                            │
-                            ▼
-                          DOCKER
-                            │
-                            ▼
-                           AWS
-                            │
-                            ▼
-                   CLOUD ARCHITECTURE
-</div>
-📚 What I'm Improving
-☕ Advanced Java & Clean Code
-🌱 Spring Boot & Spring Security
-🗄️ Database Design & Optimization
-⚡ Redis & Caching Strategies
-📨 Kafka & Event-Driven Architecture
-🏗️ Microservices & System Design
-🐳 Docker & CI/CD
-☁️ AWS & Cloud Architecture
-🤖 Spring AI & AI-enabled Backend Systems
-📫 Connect With Me
-<div align="center"> <a href="https://github.com/QuangVinh1605"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/quang-vinh-nguy%E1%BB%85u-517b07331/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+## 🌍 Languages
 
-<br><br>
+| Language        | Level              |
+| --------------- | ------------------ |
+| 🇻🇳 Vietnamese | Native             |
+| 🇬🇧 English    | IELTS 6.5          |
+| 🇫🇷 French     | Learning / Planned |
 
-Build systems. Learn deeply. Ship better.
+---
 
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,50:172554,100:1D4ED8" width="100%"/> </div> ```
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📈 Contribution
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 💡 My Development Philosophy
+
+> **Learn → Build → Break → Debug → Understand → Improve**
+
+I believe the best way to learn backend engineering is not only reading documentation, but also building real projects, facing bugs, and understanding why the system behaves the way it does.
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>☕ Building backend systems, one bug at a time.</i>
+</p>
